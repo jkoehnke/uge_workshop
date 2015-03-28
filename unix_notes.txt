@@ -1,0 +1,283 @@
+# a cool fish shortcut for listing files
+ll
+
+# a simple way to list files in long format
+ls -l
+
+# a simple way to list files
+ls
+
+# redirect ouput into a file
+history > moving_around.txt
+
+# change directory - defaults to home
+cd
+
+# change directory - also defaults to home
+cd ~
+
+# manual - shows all commands for ls
+man less
+
+# 
+history | less
+
+# shows history of functions used
+history
+
+# sublime text 
+subl
+
+#sublime text 
+subl .
+ls .
+
+# print working directory
+pwd
+ls Downloads/
+ls ~
+cd ..
+cd Documents/
+cd Code\ Fellows/
+cd /User/jkoehnke/
+cd /User/jkoehnke
+ls -R
+-R
+ls -ct
+man ls
+ls -c
+ls -e
+ls -C
+ls -t
+ls -rt
+ls -rl
+ls -r
+ls -rlt
+ls -lt
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'jkoehnke@gmail.com'
+git config --global user.name 'Josh Koehnke'
+git --version
+brew install git
+Sublime Text 2 > Preferences > Settings - User
+brew update
+git config --global user.name 'JOSH KOEHNKE'
+git config --global user.name 'YOUR FULL NAME'
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+brew doctor
+ls -G
+ls G
+uname
+jkoehnke
+brew install Abook
+brew Abook
+cd Code\ Fellows\ stuff/
+cd Clean\ up
+cd Clean up
+cd Desktop
+cd Des
+Desktop
+subl --help
+subl 
+./subl --help
+./subl
+cd /bin
+./bin/subl
+.//bin/subl
+subl --help 
+sub --help 
+sub; --help 
+./Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+chmod -f 755 ./subl 
+chmod -755 ./subl 
+ls | grep subl
+cd /usr/bin
+sudo ln -s "/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl 
+ln -s "/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl 
+ln -s "/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl 
+ln -s /Applications/Sublime\ Text\ 2.app/
+.subl
+help
+subl animal.html
+subl IntroAssignment.js
+cd dev
+open Guessing\ game.js
+open Guessing\ game
+open Guessing game.js
+subl test.txt 
+source ~/.bash_profile
+open subl
+cd bin
+subl test.txt
+open test.txt
+touch test.txt
+open .bash_profile
+touch .bash_profile
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+mkdir bin
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+open ~./bash_profile
+cd local
+cd usr
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+cd Code Fellows
+~ls guessingGame
+guessingGame
+recover guessingGame
+find guessingGame
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+$PATH
+open IntroAssignment.js
+subl Guessing game.js
+echo $SHELL
+echo SHELL
+subl index.html
+open ~/.bash_profile
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+git
+less
+rm
+mv
+cp
+touch
+mkdir
+ls -l ~
+ll
+history > moving_around.txt
+ls -l
+ls
+cd
+cd ~
+man less
+history | less
+history
+subl
+subl .
+ls .
+pwd
+ls Downloads/
+ls ~
+cd ..
+cd Documents/
+cd Code\ Fellows/
+cd /User/jkoehnke/
+cd /User/jkoehnke
+ls -R
+-R
+ls -ct
+man ls
+ls -c
+ls -e
+ls -C
+ls -t
+ls -rt
+ls -rl
+ls -r
+ls -rlt
+ls -lt
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'jkoehnke@gmail.com'
+git config --global user.name 'Josh Koehnke'
+git --version
+brew install git
+Sublime Text 2 > Preferences > Settings - User
+brew update
+git config --global user.name 'JOSH KOEHNKE'
+git config --global user.name 'YOUR FULL NAME'
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+brew doctor
+ls -G
+ls G
+uname
+jkoehnke
+brew install Abook
+brew Abook
+cd Code\ Fellows\ stuff/
+cd Clean\ up
+cd Clean up
+cd Desktop
+cd Des
+Desktop
+subl --help
+subl 
+./subl --help
+./subl
+cd /bin
+./bin/subl
+.//bin/subl
+subl --help 
+sub --help 
+sub; --help 
+./Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+chmod -f 755 ./subl 
+chmod -755 ./subl 
+ls | grep subl
+cd /usr/bin
+sudo ln -s "/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl 
+ln -s "/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl 
+ln -s "/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl 
+ln -s /Applications/Sublime\ Text\ 2.app/
+.subl
+help
+subl animal.html
+subl IntroAssignment.js
+cd dev
+open Guessing\ game.js
+open Guessing\ game
+open Guessing game.js
+subl test.txt 
+source ~/.bash_profile
+open subl
+cd bin
+subl test.txt
+open test.txt
+touch test.txt
+open .bash_profile
+touch .bash_profile
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+mkdir bin
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+open ~./bash_profile
+cd local
+cd usr
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+cd Code Fellows
+~ls guessingGame
+guessingGame
+recover guessingGame
+find guessingGame
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+$PATH
+open IntroAssignment.js
+subl Guessing game.js
+echo $SHELL
+echo SHELL
+subl index.html
+open ~/.bash_profile
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+git
+less
+rm
+mv
+cp
+touch
+mkdir
+ls -l ~
